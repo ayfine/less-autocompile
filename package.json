@@ -1,5 +1,5 @@
 {
-  "name": "less-autocompile",
+  "name": "less-autocompile-3",
   "main": "./lib/less-autocompile",
   "version": "1.0.0",
   "description": "Auto compile LESS",
